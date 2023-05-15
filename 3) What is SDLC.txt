@@ -1,0 +1,12 @@
+*What is SDLC?
+
+Software Devlopment life cycle: refers to a methodology with clearly defined processes for creating high-quality software. 
+                               in detail, the SDLC methodology focuses on the following phases of software development
+
+there are 6 phases of sdlc
+1 Requirment Gethering: To gether all requirements to build sofware or website 
+2 analysis: analysis of all the requirements
+3 Designing: fronted part- HTML, CSS,JS
+4 Coding or implemantation: Backend part paytjon java c c++ Php Etc
+5 testing : to test the whole website or software 
+6 maintainence: Maintain the website or software

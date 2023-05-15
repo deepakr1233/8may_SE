@@ -1,0 +1,30 @@
+1 Explain Types of software:
+Ther are 5 types 
+
+1) Application software:- software designed to handle specific tasks for users.
+exp: notpad, microsoft excel,skype,VLC etc... It is a type of software application that helps in the automation of the task based
+on the Users Input.It can perform single or multiple tasks at the same period of time. There are the different application which helps us in our daily life to process our Instructions based on certain rules and regulations
+Application Software helps in providing a graphical user interface to the user
+to operate the computer for different functionality. The user may use the computer for browsing the internet, accessing to email service, attending meetings, and playing games
+Different high level languages are used to build application software.
+
+2) system software:-  is a type of computer program that is designed to run a computer's hardware and application programs.
+Youtube, Calculator, Cealendar Etc....
+
+3) driver software :- A driver in software provides a programming interface to control and manage specific lower level interfaces that are often linked to a specific type of hardware, or other low-level service.
+keyboard, mouse, usb etc....Also known as device divers, the software is often considered a type of system software Device drivers control the devices and peripherals connected to a computer,
+enabling them to perform their specific tasks Every device that is connected to a computer needs at least one device
+driver to action. Examples indude software that comes with any nonstandard hardware, including special game controllers, as well as the software that enables standard hardware, such as US storage devices, keyboards, headphones
+and pers Example: Audio Driver, Video Driver etc.
+
+4) middleware software:- software that different applications use to communicate with each other.
+Ms excel etc The term middleware describes software that mediates between application and system software or between two different kinds of application software. For example, middleware enables Microsoft Windows to talk to Excel and
+anale used to send a remote work request from an application t mputer that has one kmd of 05, to an appication in a computer with a Example database middle, application server middleware
+
+5) programimng sofware :- is a software which helps the programmer in developing other software.
+Compilers, assemblers, debuggers, interpreters etc.Computer programmers programming software to write code. Programing Software and programing tools enable devlopers to
+develop, write test and degbug other software programs.
+Example of programing software include assemblers, compilers, debuggers and interpreters.
+
+
+

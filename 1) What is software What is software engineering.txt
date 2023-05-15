@@ -1,0 +1,9 @@
+1 What is software:
+Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+It is the opposite of hardware, which describes the physical aspects of a computer.
+
+
+
+2 What is software engineering: 
+Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software applicationsion
+whicwill satisfy those requirements.
